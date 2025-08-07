@@ -1,0 +1,12 @@
+
+
+{
+  "profile": {
+    "name": "Elder Rynn",
+    "role": "Forest Guardian",
+    "personality": "Wise, cryptic, protective",
+    "setting": "Fantasy",
+    "backstory": "He has guarded the Whispering Woods for centuries."
+  },
+  "player_input": "Why do you protect this forest?"
+}
