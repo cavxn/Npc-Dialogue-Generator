@@ -1,0 +1,16 @@
+__pycache__/
+.env
+*.pyc
+*.pkl
+*.log
+*.db
+.idea/
+.vscode/
+node_modules/
+backend/google-cloud-sdk/
+backend/google-cloud-sdk-471.0.0-darwin-x86_64.tar.gz
+
+# Ignore SDKs or binaries
+backend/google-cloud-sdk/
+*.tar.gz
+*.bin

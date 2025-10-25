@@ -1,0 +1,53 @@
+/* src/components/DialogueGenerator.css */
+.dialogue-container {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #1a1a1a;
+  color: white;
+  border-radius: 15px;
+  box-shadow: 0 0 30px rgba(0, 255, 200, 0.2);
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+.glow-box {
+  width: 100%;
+  height: 100px;
+  padding: 1rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  background: #0e0e0e;
+  color: #00ffe0;
+  box-shadow: 0 0 10px #00ffe0, 0 0 20px #00ffe0, 0 0 40px #00ffe0;
+  margin-bottom: 1rem;
+  resize: none;
+}
+
+.generate-btn {
+  background: #00ffe0;
+  border: none;
+  color: #000;
+  padding: 0.7rem 1.5rem;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.generate-btn:hover {
+  background: #00bfa6;
+}
+
+.response-box {
+  background: #111;
+  color: #eee;
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-left: 5px solid #00ffe0;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  text-align: left;
+}
